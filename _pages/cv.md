@@ -27,15 +27,8 @@ Research Experience
 Research Interests
 ======
 * LLM Reasoning and Reinforcement Learning
-* Hallucination in Vision-Language Models (VLMs)
+* Hallucination in Vision-Language Models (VLM)
 * LLM Truthfulness and Interpretability
-
-Skills
-======
-* Programming: Python
-* Frameworks & tools: PyTorch, deep learning / LLM training and evaluation
-* Research: LLM reasoning, reinforcement learning, VLM hallucination, LLM truthfulness and interpretability
-* Languages: English, Chinese
 
 Publications
 ======
